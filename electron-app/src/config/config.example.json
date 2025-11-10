@@ -1,0 +1,12 @@
+{
+  "supabase": {
+    "url": "YOUR_SUPABASE_URL",
+    "serviceRoleKey": "YOUR_SERVICE_ROLE_KEY"
+  },
+  "notifications": {
+    "soundEnabled": true,
+    "soundVolume": 0.7,
+    "autoCloseDelay": 5000
+  }
+}
+

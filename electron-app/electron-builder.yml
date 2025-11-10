@@ -1,0 +1,18 @@
+# Configuração do Electron Builder
+
+Este arquivo configura o build do aplicativo Electron usando electron-builder.
+
+## Build para macOS
+
+```bash
+npm run build:mac
+```
+
+O executável será gerado em `dist/`.
+
+## Configurações
+
+- **appId**: Identificador único do aplicativo
+- **productName**: Nome do produto exibido ao usuário
+- **mac.category**: Categoria do aplicativo na App Store (se publicar)
+
