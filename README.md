@@ -1,4 +1,4 @@
-# POO Cardápio
+# Sistema de Cardápio
 
 Sistema de cardápio digital desenvolvido com Next.js, TypeScript e Supabase seguindo princípios de Programação Orientada a Objetos.
 
