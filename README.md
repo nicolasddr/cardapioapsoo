@@ -37,7 +37,7 @@ Abra [http://localhost:3000/menu](http://localhost:3000/menu) no seu navegador.
 
 ### Seed de Dados de Opcionais
 
-Para testar a funcionalidade de opcionais (Story 1.2), execute o script de seed:
+Para testar a funcionalidade de opcionais, execute o script de seed:
 
 ```bash
 # Via Supabase Dashboard ou SQL Editor
