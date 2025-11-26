@@ -31,7 +31,7 @@ npm run dev
 
 4. Acesse a aplicação:
 
-Abra [http://localhost:3000](http://localhost:3000/menu) no seu navegador.
+Abra [http://localhost:3000/menu](http://localhost:3000/menu) no seu navegador.
 
 ## Banco de Dados
 
